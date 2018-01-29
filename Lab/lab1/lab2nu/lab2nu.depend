@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1448564895 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab2nu\main.cpp
+	<iostream>
+	<iomanip>
+	"set.h"
+
+1448446766 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab2nu\set.h
+	<iostream>
+	"node.h"
+
+1448446766 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab2nu\node.h
+	<iostream>
+
+1448456739 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab2nu\node.cpp
+	"node.h"
+
+1448565903 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab2nu\set.cpp
+	"set.h"
+
+1448634119 source:h:\tng033 c++\lab2nu\main.cpp
+	<iostream>
+	<iomanip>
+	"set.h"
+
+1448634120 h:\tng033 c++\lab2nu\set.h
+	<iostream>
+	"node.h"
+
+1448634120 h:\tng033 c++\lab2nu\node.h
+	<iostream>
+
+1448634120 source:h:\tng033 c++\lab2nu\node.cpp
+	"node.h"
+
+1448636871 source:h:\tng033 c++\lab2nu\set.cpp
+	"set.h"
+

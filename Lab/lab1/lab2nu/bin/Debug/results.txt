@@ -1,0 +1,278 @@
+Dr. Memory version 1.9.0 build 4 built on Oct  2 2015 13:13:14
+Dr. Memory results for pid 7772: "lab2nu.exe"
+Application cmdline: "lab2nu.exe"
+Recorded 116 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin\suppress-default.txt
+
+Error #1: LEAK 8 direct bytes 0x00e37670-0x00e37678 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:22]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:20]
+
+Error #2: LEAK 8 direct bytes 0x00e376c0-0x00e376c8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:22]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:21]
+
+Error #3: LEAK 8 direct bytes 0x00e377b0-0x00e377b8 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:38]
+
+Error #4: LEAK 8 direct bytes 0x00e37850-0x00e37858 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:48]
+
+Error #5: LEAK 8 direct bytes 0x00e378f0-0x00e378f8 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:48]
+
+Error #6: LEAK 8 direct bytes 0x00e379e0-0x00e379e8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:139]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #7: LEAK 8 direct bytes 0x00e37b20-0x00e37b28 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:211]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #8: LEAK 8 direct bytes 0x00e37c10-0x00e37c18 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #9: LEAK 8 direct bytes 0x00e37c60-0x00e37c68 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator*                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:173]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:72]
+
+Error #10: LEAK 8 direct bytes 0x00e37cb0-0x00e37cb8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:72]
+
+Error #11: LEAK 8 direct bytes 0x00e37d28-0x00e37d30 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:197]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:73]
+
+Error #12: LEAK 8 direct bytes 0x00e37d78-0x00e37d80 + 8 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:73]
+
+Error #13: LEAK 8 direct bytes 0x00e37e68-0x00e37e70 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:226]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #14: LEAK 8 direct bytes 0x00e37f30-0x00e37f38 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:250]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #15: LEAK 8 direct bytes 0x00e37fd0-0x00e37fd8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:233]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #16: LEAK 8 direct bytes 0x00e38020-0x00e38028 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #17: LEAK 8 direct bytes 0x00e380e8-0x00e380f0 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:250]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #18: LEAK 8 direct bytes 0x00e381b0-0x00e381b8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:226]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #19: LEAK 8 direct bytes 0x00e38250-0x00e38258 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:233]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #20: LEAK 8 direct bytes 0x00e382f0-0x00e382f8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #21: LEAK 8 direct bytes 0x00e383e0-0x00e383e8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:117]
+
+===========================================================================
+FINAL SUMMARY:
+
+DUPLICATE ERROR COUNTS:
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+      0 unique,     0 total unaddressable access(es)
+      0 unique,     0 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+     21 unique,    21 total,    240 byte(s) of leak(s)
+      0 unique,     0 total,      0 byte(s) of possible leak(s)
+ERRORS IGNORED:
+      1 potential error(s) (suspected false positives)
+         (details: C:\Users\Jinwoo.Arsle\AppData\Roaming\Dr. Memory\DrMemory-lab2nu.exe.7772.000\potential_errors.txt)
+      0 unique,     0 total,      0 byte(s) of still-reachable allocation(s)
+         (re-run with "-show_reachable" for details)
+Details: C:\Users\Jinwoo.Arsle\AppData\Roaming\Dr. Memory\DrMemory-lab2nu.exe.7772.000\results.txt
+Dr. Memory version 1.9.0 build 4 built on Oct  2 2015 13:13:14
+Dr. Memory results for pid 7772: "lab2nu.exe"
+Application cmdline: "lab2nu.exe"
+Recorded 116 suppression(s) from default C:\Program Files (x86)\Dr. Memory\bin\suppress-default.txt
+
+Error #1: LEAK 8 direct bytes 0x00e37670-0x00e37678 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:22]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:20]
+
+Error #2: LEAK 8 direct bytes 0x00e376c0-0x00e376c8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:22]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:21]
+
+Error #3: LEAK 8 direct bytes 0x00e377b0-0x00e377b8 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:38]
+
+Error #4: LEAK 8 direct bytes 0x00e37850-0x00e37858 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:48]
+
+Error #5: LEAK 8 direct bytes 0x00e378f0-0x00e378f8 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:48]
+
+Error #6: LEAK 8 direct bytes 0x00e379e0-0x00e379e8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:139]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #7: LEAK 8 direct bytes 0x00e37b20-0x00e37b28 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:211]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #8: LEAK 8 direct bytes 0x00e37c10-0x00e37c18 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:71]
+
+Error #9: LEAK 8 direct bytes 0x00e37c60-0x00e37c68 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator*                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:173]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:72]
+
+Error #10: LEAK 8 direct bytes 0x00e37cb0-0x00e37cb8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:72]
+
+Error #11: LEAK 8 direct bytes 0x00e37d28-0x00e37d30 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:197]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:73]
+
+Error #12: LEAK 8 direct bytes 0x00e37d78-0x00e37d80 + 8 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:73]
+
+Error #13: LEAK 8 direct bytes 0x00e37e68-0x00e37e70 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:226]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #14: LEAK 8 direct bytes 0x00e37f30-0x00e37f38 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:250]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #15: LEAK 8 direct bytes 0x00e37fd0-0x00e37fd8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:233]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #16: LEAK 8 direct bytes 0x00e38020-0x00e38028 + 16 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:95]
+
+Error #17: LEAK 8 direct bytes 0x00e380e8-0x00e380f0 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:250]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #18: LEAK 8 direct bytes 0x00e381b0-0x00e381b8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator+                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:226]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #19: LEAK 8 direct bytes 0x00e38250-0x00e38258 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::Set                           [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:38]
+# 2 Set::operator-                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:233]
+# 3 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #20: LEAK 8 direct bytes 0x00e382f0-0x00e382f8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:96]
+
+Error #21: LEAK 8 direct bytes 0x00e383e0-0x00e383e8 + 0 indirect bytes
+# 0 replace_operator_new               [d:\drmemory_package\common\alloc_replace.c:2860]
+# 1 Set::operator=                     [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/set.cpp:268]
+# 2 main                               [C:/Users/Jinwoo.Arsle/Desktop/TNG033 labbar offline/lab2nu/main.cpp:117]
+
+===========================================================================
+FINAL SUMMARY:
+
+DUPLICATE ERROR COUNTS:
+
+SUPPRESSIONS USED:
+
+ERRORS FOUND:
+      0 unique,     0 total unaddressable access(es)
+      0 unique,     0 total uninitialized access(es)
+      0 unique,     0 total invalid heap argument(s)
+      0 unique,     0 total GDI usage error(s)
+      0 unique,     0 total handle leak(s)
+      0 unique,     0 total warning(s)
+     21 unique,    21 total,    240 byte(s) of leak(s)
+      0 unique,     0 total,      0 byte(s) of possible leak(s)
+ERRORS IGNORED:
+      1 potential error(s) (suspected false positives)
+         (details: C:\Users\Jinwoo.Arsle\AppData\Roaming\Dr. Memory\DrMemory-lab2nu.exe.7772.000\potential_errors.txt)
+      0 unique,     0 total,      0 byte(s) of still-reachable allocation(s)
+         (re-run with "-show_reachable" for details)
+Details: C:\Users\Jinwoo.Arsle\AppData\Roaming\Dr. Memory\DrMemory-lab2nu.exe.7772.000\results.txt

@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1449612380 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\expression.cpp
+	<cmath>
+	"expression.h"
+
+1449612423 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\expression.h
+	<iostream>
+
+1449612489 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\logarithm.cpp
+	"math.h"
+	"logarithm.h"
+	"polynomial.h"
+
+1449606379 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\logarithm.h
+	<iostream>
+	"expression.h"
+
+1449611736 c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\polynomial.h
+	<iostream>
+	"expression.h"
+
+1449613499 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\polynomial.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"polynomial.h"
+
+1449606537 source:c:\users\jinwoo.arsle\desktop\tng033 labbar offline\lab3\lab3\test.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"polynomial.h"
+	"logarithm.h"
+
+1449656657 source:h:\tng033 c++\lab3\expression.cpp
+	<cmath>
+	"expression.h"
+
+1449656652 h:\tng033 c++\lab3\expression.h
+	<iostream>
+
+1449657923 source:h:\tng033 c++\lab3\logarithm.cpp
+	"math.h"
+	"logarithm.h"
+	"polynomial.h"
+
+1449657906 h:\tng033 c++\lab3\logarithm.h
+	<iostream>
+	"expression.h"
+
+1449653606 h:\tng033 c++\lab3\polynomial.h
+	<iostream>
+	"expression.h"
+
+1449657529 source:h:\tng033 c++\lab3\polynomial.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+	"polynomial.h"
+
+1449657333 source:h:\tng033 c++\lab3\test.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"polynomial.h"
+	"logarithm.h"
+
+1449656658 source:c:\users\martin\desktop\tng033\lab\jinwoo lab2\expression.cpp
+	<cmath>
+	"expression.h"
+
+1449656654 c:\users\martin\desktop\tng033\lab\jinwoo lab2\expression.h
+	<iostream>
+
+1449657334 source:c:\users\martin\desktop\tng033\lab\jinwoo lab2\test.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"polynomial.h"
+	"logarithm.h"
+
+1512579153 c:\users\martin\desktop\tng033\lab\jinwoo lab2\polynomial.h
+	<iostream>
+	"expression.h"
+
+1449657908 c:\users\martin\desktop\tng033\lab\jinwoo lab2\logarithm.h
+	<iostream>
+	"expression.h"
+
+1449658422 source:c:\users\martin\desktop\tng033\lab\jinwoo lab2\logarithm.cpp
+	"math.h"
+	"logarithm.h"
+	"polynomial.h"
+
